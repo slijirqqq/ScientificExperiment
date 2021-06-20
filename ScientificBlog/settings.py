@@ -145,7 +145,7 @@ INTERNAL_IPS = [
 ]
 
 # Constant for save CKEDITOR files in media
-CKEDITOR_UPLOAD_PATH = '/uploads'
+CKEDITOR_UPLOAD_PATH = "uploads/"
 
 # CKEDITOR CONFIG
 CKEDITOR_CONFIGS = {
